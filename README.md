@@ -1,6 +1,6 @@
 # **Linux Terminal**
 
-This is the terminal fro Ubuntu, now available on every device!
+This is the terminal from Ubuntu, now available on every device!
 ## __Source Code__
 ```python
 import os
