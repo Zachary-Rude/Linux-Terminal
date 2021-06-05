@@ -1,7 +1,6 @@
 # **Linux Terminal**
 
-This is a Chromebook-compatible, Chromebook-style Linux terminal, written in Python.
-
+This is the terminal fro Ubuntu, now available on every device!
 ## __Source Code__
 ```python
 import os
